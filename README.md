@@ -8,7 +8,7 @@ Esse projeto funciona da seguinte forma: Acessamos aos dados disponibilizados pe
 Depois utilizamos o SQLite para fazer a ponte para o power BI, onde analisamos os dados e montamos gráficos. 
 Ao final, utilizamos os gráficos montados no power BI para criar uma apresentação em power point onde os dados serão melhores apresentados.
 
-##Foram utilizados:
+## Foram utilizados:
 1) Python 3.9
 2) Bibliotecas Pandas e Dask para tratamento dos dados em formato de dataframe, observando o tamanho do arquivo
 3) O banco de dados SQLite para armazenar os dados pré-processados
