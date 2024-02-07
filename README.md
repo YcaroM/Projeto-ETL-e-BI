@@ -19,14 +19,16 @@ Ycaro César Albano Martins
 
 ### Report "Gráficos no BI.pbit":
 
-![POWER BI](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/d6a3e341-2d8b-4cbc-a074-7a1f48f9a796)
+![POWER BI](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/d57fbd46-73f1-46fe-a185-6c7302d0d52c)
+
 
 ### Apresentação Case:
 
 ![Apresentação 1](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/581c3e87-df40-460f-b7d4-35619f39d49c)
 ![apresentação 2](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/6f79af0f-ceba-427a-89b9-ab6213389f6f)
 ![apresentação 3](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/2863c920-aab0-44c5-8cc0-e9037dcbeafa)
-![apresentação 4](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/600b89fa-d6fc-4f0f-bc66-dd6af0c753b4)
+![apresentação 4](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/14ed2965-7a45-409e-a30a-3a7fdf58badc)
+
 
 
 
