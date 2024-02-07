@@ -23,8 +23,10 @@ Ycaro César Albano Martins
 
 ### Report "Apresentação dos dados.pptx"
 
-![Apresentação 1](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/dd05afd0-4d22-4961-bd45-1d2dfd4bf231)
-![apresentação 2](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/a849e40d-b125-44e2-8c94-372f1230e5db)
-![apresentação 3](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/fd5ec527-be15-4b38-afaa-0ce7b34e713f)
-![apresentação 4](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/351603e7-90e7-41f8-8cd6-047fbdf1e55c)
+![Apresentação 1](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/581c3e87-df40-460f-b7d4-35619f39d49c)
+![apresentação 2](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/6f79af0f-ceba-427a-89b9-ab6213389f6f)
+![apresentação 3](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/2863c920-aab0-44c5-8cc0-e9037dcbeafa)
+![apresentação 4](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/6b067938-707d-4881-8008-77ba9e6724b3)
+
+
 
