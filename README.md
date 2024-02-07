@@ -17,6 +17,14 @@ Ao final, utilizamos os gráficos montados no power BI para criar uma apresenta�
 
 Ycaro César Albano Martins
 
-## Report "Gráficos no BI.pbit":
+### Report "Gráficos no BI.pbit":
 
 ![POWER BI](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/10df40d1-e4c7-408f-811d-3e5001d7c680)
+
+### Report "Apresentação dos dados.pptx"
+
+![Apresentação 1](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/dd05afd0-4d22-4961-bd45-1d2dfd4bf231)
+![apresentação 2](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/a849e40d-b125-44e2-8c94-372f1230e5db)
+![apresentação 3](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/fd5ec527-be15-4b38-afaa-0ce7b34e713f)
+![apresentação 4](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/351603e7-90e7-41f8-8cd6-047fbdf1e55c)
+
