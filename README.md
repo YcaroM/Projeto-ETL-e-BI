@@ -26,7 +26,8 @@ Ycaro César Albano Martins
 ![Apresentação 1](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/581c3e87-df40-460f-b7d4-35619f39d49c)
 ![apresentação 2](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/6f79af0f-ceba-427a-89b9-ab6213389f6f)
 ![apresentação 3](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/2863c920-aab0-44c5-8cc0-e9037dcbeafa)
-![apresentação 4](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/6b067938-707d-4881-8008-77ba9e6724b3)
+![apresentação 4](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/600b89fa-d6fc-4f0f-bc66-dd6af0c753b4)
+
 
 
 
