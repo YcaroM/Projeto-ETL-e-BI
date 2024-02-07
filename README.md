@@ -17,3 +17,6 @@ Ao final, utilizamos os gráficos montados no power BI para criar uma apresenta�
 
 Ycaro César Albano Martins
 
+## Report "Gráficos no BI.pbit":
+
+![POWER BI](https://github.com/YcaroM/Projeto-ETL-e-BI/assets/115301036/10df40d1-e4c7-408f-811d-3e5001d7c680)
